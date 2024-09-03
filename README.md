@@ -1,4 +1,6 @@
 List Of all Machine Learning Algorithms:
+
+
     Supervised Learning Algorithms:
         Linear Regression
         Logistic Regression
